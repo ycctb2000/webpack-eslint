@@ -1,0 +1,24 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "parser": "babel-eslint",
+    "extends": "airbnb/legacy",
+    "rules": {
+        "linebreak-style": [
+            2,
+            "windows"
+        ],
+        "quotes": [
+            2,
+            "single"
+        ],
+        "semi": [
+            2,
+            "always"
+        ],
+        "indent": 0,
+        "eol-last": 0
+    }
+}
